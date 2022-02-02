@@ -1,0 +1,15 @@
+.footer {
+    background-color: #000000;
+    height: 65px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    /* position: fixed; */
+    top: 0;
+    box-shadow: 1px 6px 2px 0px #00000026;
+}
+
+.footer-img img {
+    width: 150px;
+    height: 25px;
+}
